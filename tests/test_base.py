@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from btp_word_cloud.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "btp_word_cloud"

@@ -2,4 +2,4 @@ include LICENSE
 include HISTORY.md
 include Containerfile
 graft tests
-graft project_name
+graft btp_word_cloud
